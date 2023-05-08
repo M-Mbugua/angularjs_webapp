@@ -1,6 +1,6 @@
 # restaurant-website
  
-## This website has been written using HTML5, CSS and Javascript. It is a single page application and is responsive.
+## This website has been written using HTML5, CSS and Javascript. It is a single-page responsive application.
 
 ## This is the homepage on a large device.
 
