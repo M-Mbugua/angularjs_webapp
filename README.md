@@ -11,7 +11,7 @@ and is highly responsive across all devices.
 
 ![Alt text](images/screenshot_1.png)
 
-## This is the view on a smaller screen such as a tablet or smartphone.
+### This is the view on a smaller screen such as a tablet or smartphone.
 
 ![Alt text](images/screenshot_2.png)
 
